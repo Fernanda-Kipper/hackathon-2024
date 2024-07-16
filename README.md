@@ -6,7 +6,9 @@ Aqui você encontrará todos os detalhes para participar do nosso **Hackathon**!
 
 1. [Primeiramente, seja muito bem vindo(a) 👋](#primeiramente-seja-muito-bem-vindoa-)
 2. [Qual o objetivo desse Hackaton?](#qual-o-objetivo-desse-hackaton)
-3. [Como irá funcionar?](#como-irá-funcionar)
+3. [Premiação](#premios)
+4. [Patrocinadores](#patrocinadores)
+5. [Como irá funcionar?](#como-irá-funcionar)
    1. [Equipes 🧑‍🤝‍🧑](#equipes)
    2. [Tempo para resolver o desafio ⏱️](#tempo-para-resolver-o-desafio)
    3. [Submissão 📥](#submissao)
@@ -23,6 +25,52 @@ Além disso, o objetivo é estabelecer conexões significativas entre os partici
 Este hackathon será um espaço inclusivo onde **todos os participantes são incentivados a contribuir**, independentemente de seu nível de habilidade, formação acadêmica ou identidade.
 
 > APROVEITE O MÁXIMO!
+
+<h2 id="premios">Premiação 🏆</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Posição</th>
+      <th>Prêmio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1º Lugar 🥇</td>
+      <td>R$ XXXX p/ grupo + 1 bolsa de 1 ano da Rocketseat p/ cada participante</td>
+    </tr>
+    <tr>
+      <td>2º Lugar 🥈</td>
+      <td>R$ XXXX  p/ grupo + 1 periférico p/ cada participante</td>
+    </tr>
+    <tr>
+      <td>3º Lugar 🥉</td>
+      <td>R$ XXXX  p/ grupo</td>
+    </tr>
+   <tr>
+      <td>Pessoa Destaque ⭐</td>
+      <td>Kit de Camiseta + Caneca da BornToCode</td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="patrocinadores">Nossos patrocinadores 💖 </h1>
+
+Um agradecimento especial á todos patrocinadores, que permitiram esse evento acontecer.
+
+<table>
+  <tbody>
+    <td align="center">
+      <a href="https://www.rocketseat.com.br/assinatura?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_content=lead-one-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV">
+        <img src="./assets/rocket.png" width="100px;" alt="Logo da Rocketseat"/><br>
+        <sub>
+          <b>Rocketseat</b>
+        </sub>
+      </a>
+    </td>
+  </tbody>
+</table>
 
 # Como irá funcionar?
 
