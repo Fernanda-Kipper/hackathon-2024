@@ -9,12 +9,13 @@ Aqui você encontrará todos os detalhes para participar do nosso **Hackathon**!
 3. [Premiação](#premios)
 4. [Patrocinadores](#patrocinadores)
 5. [Como irá funcionar?](#como-irá-funcionar)
-   1. [Equipes 🧑‍🤝‍🧑](#equipes)
-   2. [Tempo para resolver o desafio ⏱️](#tempo-para-resolver-o-desafio)
-   3. [Submissão 📥](#submissao)
-   4. [Anúncio dos vencedores 📢](#anuncio-dos-vencedores)
-   5. [Formatos de Entrega e Pontuação 📊](#formatos-de-entregas)
-   6. [Rodadas de mentoria 👩‍🏫](#rodadas-mentoria)
+   1. [Desafio 🎯](#desafio)
+   2. [Equipes 🧑‍🤝‍🧑](#equipes)
+   3. [Tempo para resolver o desafio ⏱️](#tempo-para-resolver-o-desafio)
+   4. [Submissão 📥](#submissao)
+   5. [Anúncio dos vencedores 📢](#anuncio-dos-vencedores)
+   6. [Formatos de Entrega e Pontuação 📊](#formatos-de-entregas)
+   7. [Rodadas de mentoria 👩‍🏫](#rodadas-mentoria)
 
 # Qual o objetivo desse Hackaton?
 
@@ -76,7 +77,7 @@ Um agradecimento especial á todos patrocinadores, que permitiram esse evento ac
 
 **O Hackathon funcionará em formato de equipes, onde cada equipe deve pensar em uma solução inovadora e criativa para o desafio, usando suas experiências e conhecimentos.**
 
-<h2 id="deisafio">O desafio ⏱️</h2>
+<h2 id="desafio">O desafio 🎯</h2>
 
 O desafio será anunciado durante nossa abertura oficial, que acontecerá em São Paulo, na Microsoft Reactor ([participe presencial](https://developer.microsoft.com/pt-br/reactor/events/23270/)), e transmitido por live no canal.
 
