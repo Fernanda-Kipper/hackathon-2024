@@ -38,19 +38,19 @@ Este hackathon será um espaço inclusivo onde **todos os participantes são inc
   <tbody>
     <tr>
       <td>1º Lugar 🥇</td>
-      <td>R$ XXXX p/ grupo + 1 bolsa de 1 ano da Rocketseat p/ cada participante</td>
+      <td>R$ 500,00 p/ grupo + 1 bolsa de 1 ano da Rocketseat p/ cada participante</td>
     </tr>
     <tr>
       <td>2º Lugar 🥈</td>
-      <td>R$ XXXX  p/ grupo + 1 periférico p/ cada participante</td>
+      <td>R$ 300,00  p/ grupo + 1 periférico p/ cada participante</td>
     </tr>
     <tr>
       <td>3º Lugar 🥉</td>
-      <td>R$ XXXX  p/ grupo</td>
+      <td>R$ 200,00  p/ grupo</td>
     </tr>
    <tr>
       <td>Pessoa Destaque ⭐</td>
-      <td>Kit de Camiseta + Caneca da BornToCode</td>
+      <td>Kit de Camiseta + Caneca da <a href="https://borntocode.com.br/"> BornToCode </a></td>
     </tr>
   </tbody>
 </table>
@@ -76,6 +76,9 @@ Um agradecimento especial á todos patrocinadores, que permitiram esse evento ac
 
 **O Hackathon funcionará em formato de equipes, onde cada equipe deve pensar em uma solução inovadora e criativa para o desafio, usando suas experiências e conhecimentos.**
 
+<h2 id="deisafio">O desafio ⏱️</h2>
+
+O desafio será anunciado durante nossa abertura oficial, que acontecerá em São Paulo, na Microsoft Reactor ([participe presencial](https://developer.microsoft.com/pt-br/reactor/events/23270/)), e transmitido por live no canal.
 
 <h2 id="equipes">Equipes 🧑‍🤝‍🧑</h2>
 
