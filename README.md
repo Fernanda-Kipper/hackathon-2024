@@ -5,7 +5,7 @@
 Aqui você encontrará todos os detalhes para participar do nosso **Hackathon**!
 
 1. [Primeiramente, seja muito bem vindo(a) 👋](#primeiramente-seja-muito-bem-vindoa-)
-2. [Qual o objetivo desse Hackaton?](#qual-o-objetivo-desse-hackaton)
+2. [Qual o objetivo desse Hackathon?](#qual-o-objetivo-desse-hackathon)
 3. [Premiação](#premios)
 4. [Patrocinadores](#patrocinadores)
 5. [Como irá funcionar?](#como-irá-funcionar)
@@ -17,7 +17,7 @@ Aqui você encontrará todos os detalhes para participar do nosso **Hackathon**!
    6. [Formatos de Entrega e Pontuação 📊](#formatos-de-entregas)
    7. [Rodadas de mentoria 👩‍🏫](#rodadas-mentoria)
 
-# Qual o objetivo desse Hackaton?
+# Qual o objetivo desse Hackathon?
 
 Nosso principal objetivo é **promover uma atmosfera colaborativa e de apoio entre os membros da comunidade KipperDev**. **Queremos incentivar a troca de ideias e o trabalho em equipe para impulsionar o nosso crescimento coletivo.**
 
@@ -58,7 +58,7 @@ Este hackathon será um espaço inclusivo onde **todos os participantes são inc
 
 <h1 id="patrocinadores">Nossos patrocinadores 💖 </h1>
 
-Um agradecimento especial á todos patrocinadores, que permitiram esse evento acontecer.
+Um agradecimento especial a todos patrocinadores, que permitiram esse evento acontecer.
 
 <table>
   <tbody>
@@ -79,7 +79,7 @@ Um agradecimento especial á todos patrocinadores, que permitiram esse evento ac
 
 <h2 id="desafio">O desafio 🎯</h2>
 
-O desafio será anunciado durante nossa abertura oficial, que acontecerá em São Paulo, na Microsoft Reactor ([participe presencial](https://developer.microsoft.com/pt-br/reactor/events/23270/)), e transmitido por live no canal.
+O desafio será anunciado durante nossa abertura oficial, que acontecerá em São Paulo, na Microsoft Reactor ([participe presencialmente](https://developer.microsoft.com/pt-br/reactor/events/23270/)), e transmitido por live no canal.
 
 <h2 id="equipes">Equipes 🧑‍🤝‍🧑</h2>
 
@@ -93,7 +93,7 @@ Durante todo o final de semana, do dia 02/08 até o dia 04/08, as equipes poder�
 
 <h2 id="submissao">Submissão 📥</h2>
 
-No domingo, dia 04/08, será aberto o formulário para submissão das soluções, e equipes terão até ás 23:59h para submeter sua solução. 
+No domingo, dia 04/08, será aberto o formulário para submissão das soluções, e equipes terão até às 23:59h para submeter sua solução. 
 
 > Antes de entregar, certifique que seu time todo está alinhado, uma vez submetido, a solução não poderá ser alterada.
 
@@ -104,7 +104,7 @@ No domingo, dia 04/08, será aberto o formulário para submissão das soluções
 
 <h2 id="anuncio-dos-vencedores">Anúncio dos vencedores 📢</h2>
 
-O anúncio dos ganhadores ocorrerá no próximo final de semana, durante a live semanal do canal, dia 11/08 ás 20h.
+O anúncio dos ganhadores ocorrerá no próximo final de semana, durante a live semanal do canal, dia 11/08 às 20h.
 
 <h2 id="formato-de-entregas">Formatos de Entrega e Pontuação 📊</h2>
 
@@ -136,7 +136,7 @@ Isso garante que as equipes sejam recompensadas não apenas pela entrega do prod
 
 Durante todo o período do **Hackathon**, estamos oferecendo sessões de mentoria interativas na [comunidade do Discord](https://discord.com/invite/D5sStBByFr) para ajudar e tirar dúvidas dos participantes. 
 
-Nossos mentores são membros dedicados da comunidade KipperDev, selecionados por sua profunda compreensão das tecnologias e amor á tecnologia (assim como nós) 💜
+Nossos mentores são membros dedicados da comunidade KipperDev, selecionados por sua profunda compreensão das tecnologias e amor à tecnologia (assim como nós) 💜
 
 > Aproveite essas sessões para tirar dúvidas sobre o desafio, pedir ajuda técnica, pitching das ideias, entre outros aspectos essenciais para o sucesso da sua equipe no hackathon!
 > 
