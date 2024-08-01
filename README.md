@@ -43,7 +43,7 @@ Este hackathon será um espaço inclusivo onde **todos os participantes são inc
     </tr>
     <tr>
       <td>2º Lugar 🥈</td>
-      <td>R$ 300,00  p/ grupo + 1 periférico p/ cada participante</td>
+      <td>R$ 300,00  p/ grupo + Vale Compras InPro (itens de setup)</td>
     </tr>
     <tr>
       <td>3º Lugar 🥉</td>
@@ -62,14 +62,42 @@ Um agradecimento especial a todos patrocinadores, que permitiram esse evento aco
 
 <table>
   <tbody>
-    <td align="center">
-      <a href="https://www.rocketseat.com.br/assinatura?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_content=lead-one-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV">
-        <img src="./assets/rocket.png" width="100px;" alt="Logo da Rocketseat"/><br>
-        <sub>
-          <b>Rocketseat</b>
-        </sub>
-      </a>
-    </td>
+    <tr>
+      <td align="center">
+        <a href="https://www.rocketseat.com.br/assinatura?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_content=lead-one-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV">
+          <img src="./assets/rocket.png" width="100px;" alt="Logo da Rocketseat"/><br>
+          <sub>
+            <b>Rocketseat</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://inpro.br.com/">
+          <img src="./assets/inpro.png" width="100px;" alt="Logo da InPro"/><br>
+          <sub>
+            <b>InPro</b>
+          </sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://poku.io/pt-BR/">
+          <img src="./assets/poku.png" width="100px;" height="100px;"alt="Logo da Poku"/><br>
+          <sub>
+            <b>Poku</b>
+          </sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://borntocode.com.br">
+          <img src="./assets/btc-logo.png" width="100px;" alt="Logo da BornToCode"/><br>
+          <sub>
+            <b>BornToCode</b>
+          </sub>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -125,6 +153,12 @@ Para garantir que todas as equipes tenham a oportunidade de destacar seu talento
 ### **3. Aplicação Desenvolvida (Pontuação variável)**
 
 - **Aplicação Funcional:** Uma versão completa e funcional da solução proposta, desenvolvida com base nos requisitos e especificações definidos durante o hackathon. A pontuação atribuída dependerá da qualidade da execução, inovação, usabilidade e impacto da solução.
+
+### **3. Testes Unitários ou Integração (1 ponto)**
+
+- **Testes Unitários:** Testes unitários para verificar o comportamento de unidades individuais de código, como funções ou métodos, de forma isolada, garatindo que cada parte do código funcione conforme o esperado. Sugestão para projetos Javascript é usar a ferramenta [Poku](https://poku.io/pt-BR/).
+
+- **Testes de Integração:** Testes de integração que verifiquem a interação do seu sistema com serviços externos ou outros módulos apartados do sistema. 
 
 ### **4. Pontuação adicional da banca**
 
