@@ -107,7 +107,35 @@ Um agradecimento especial a todos patrocinadores, que permitiram esse evento aco
 
 <h2 id="desafio">O desafio 🎯</h2>
 
-O desafio será anunciado durante nossa abertura oficial, que acontecerá em São Paulo, na Microsoft Reactor ([participe presencialmente](https://developer.microsoft.com/pt-br/reactor/events/23270/)), e transmitido por live no canal.
+O meu compromisso e dessa comunidade sempre foi promover a democratização do conhecimento, em busca de uma sociedade melhor. Então, nada mais justo, para a primeira edição do nosso Hackathon, buscarmos pensar em soluções que ajudem nas diversas crises climáticas que estão ocorrendo no mundo.
+
+<h2>"Tecnologia Contra Crises Climáticas: Soluções para Cidades Resilientes"</h2>
+
+<h4>Descrição</h4>
+
+As crises climáticas, como enchentes e calores extremos, são um problema recorrente que afeta muitas cidades, causando danos materiais, interrompendo serviços essenciais e colocando vidas em risco. O desafio deste Hackathon é desenvolver soluções tecnológicas que ajudem as cidades a prevenir, gerenciar e mitigar os impactos dessas crises.
+
+<h4>Objetivo</h4>
+
+Você e sua equipe devem criar ou idealizar uma aplicação, sistema ou serviço que utilize as tecnologias que você e seu time preferirem para enfrentar os desafios impostos pelas crises climáticas, promovendo a resiliência urbana, rápida recuperação das cidades e a segurança dos cidadãos.
+
+<h4>Exemplos de Soluções</h4>
+
+SOS RS: Ajuda a localizar pessoas afetadas pelas enchentes.
+
+Earthquake: App que avisa sobre terremotos próximos e da alerta de evacuação.
+
+Agrimídia: Mapea as perdas causadas pelas chuvas intensas no Agro.
+
+Abrigo RS: Reúne informações sobre abrigos, como necessidades de doações e voluntários, para que as autoridades públicas possam aceder aos dados em tempo real.
+
+Sistema de Alerta de Enchentes: Uma rede de sensores IoT que monitora os níveis de água dos rios e envia alertas em tempo real para a população e autoridades.
+
+Plataforma de Gestão de Crises: Uma aplicação que coordena as operações de emergência, facilita a comunicação entre diferentes órgãos e fornece informações críticas durante as enchentes.
+
+Mapeamento e Prevenção: Um sistema de análise de dados que utiliza GIS e Big Data para identificar áreas de risco, planejar medidas preventivas e otimizar a infraestrutura urbana.
+
+App de Ajuda Comunitária: Um aplicativo que conecta voluntários, abrigos e recursos essenciais com pessoas afetadas pelas enchentes, facilitando a assistência comunitária.
 
 <h2 id="equipes">Equipes 🧑‍🤝‍🧑</h2>
 
