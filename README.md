@@ -39,15 +39,15 @@ Este hackathon será um espaço inclusivo onde **todos os participantes são inc
   <tbody>
     <tr>
       <td>1º Lugar 🥇</td>
-      <td>R$ 500,00 p/ grupo + 1 bolsa de 1 ano da Rocketseat p/ cada participante</td>
+      <td>R$ 1.500,00 p/ grupo + 1 bolsa de 1 ano da Rocketseat p/ cada participante</td>
     </tr>
     <tr>
       <td>2º Lugar 🥈</td>
-      <td>R$ 300,00  p/ grupo + Vale Compras InPro (itens de setup)</td>
+      <td>R$ 700,00  p/ grupo + Vale Compras InPro (itens de setup)</td>
     </tr>
     <tr>
       <td>3º Lugar 🥉</td>
-      <td>R$ 200,00  p/ grupo</td>
+      <td>R$ 500,00  p/ grupo</td>
     </tr>
    <tr>
       <td>Pessoa Destaque ⭐</td>
