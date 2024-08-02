@@ -207,14 +207,14 @@ Nossos mentores são membros dedicados da comunidade KipperDev, selecionados por
 
 ### Sábado (03/08)
 
-- 00:00h - 01:00h - Fernanda Kipper
-- 00:00h - 01:00h - Leonardo Silva
-- 00:00h - 01:00h - André Silva
-- 00:00h - 01:00h - Renato Teixeira
+- 10:00h - 11:00h - Fernanda Kipper (fernandakipper)
+- 11:00h - 12:00h - Leonardo Silva (leosilva0411)
+- 14:00h - 16:00h - André Silva (andrelcnunes)
+- 16:00h - 17:00h - Renato Teixeira (reenatoteixeira)
 
 ### Domingo (04/08)
 
-- XX/XX 00:00h - 01:00h - Fernanda Kipper
-- XX/XX 00:00h - 01:00h - Leonardo Silva
-- XX/XX 00:00h - 01:00h - André Silva
-- XX/XX 00:00h - 01:00h - Renato Teixeira
+- 09:00h - 10:00h - Fernanda Kipper (fernandakipper)
+- 14:00h - 16:00h - André Silva (andrelcnunes)
+- 16:00h - 17:00h - Renato Teixeira (reenatoteixeira)
+- 19:00h - 20:00h - Leonardo Silva (leosilva0411)
