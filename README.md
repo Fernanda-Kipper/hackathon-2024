@@ -153,14 +153,23 @@ No domingo, dia 04/08, será aberto o formulário para submissão das soluções
 
 > Antes de entregar, certifique que seu time todo está alinhado, uma vez submetido, a solução não poderá ser alterada.
 
-- Primeiro vocês deverão preencher o [formulário de submissão - EM BREVE]().
+- Primeiro é a gravação do Pitch
+  - Pelo menos um dos membros da sua equipe deverá gravar um pitching de no mínimo 3 minutos e no máximo 5, apresentando a ideia do projeto e todas as features pensadas para existir.
+- Depois vocês deverão preencher o [formulário de submissão](https://forms.gle/aJeiENkTCmUQJxCLA).
+  -   No formulário, iremos solicitar os recursos produzidos pela sua equipe, como:
+	- Link do Figma e Wireframe (caso tenha).
+	- Link do GitHub (caso tenha).
+	- Link do projeto final (caso tenha).
+	- Link para o vídeo do pitch (obrigatório).
 - Feito isso, vocês receberão por e-mail uma confirmação do envio (esse é o momento de alterações caso ainda necessário) e para confirmar basta seguir os passos definidos no e-mail.
 - Com o envio confirmado, a equipe não poderá mais fazer alterações no projeto.
 - Pronto! Agora é só esperar o resultado 🍀
 
 <h2 id="anuncio-dos-vencedores">Anúncio dos vencedores 📢</h2>
 
-O anúncio dos ganhadores ocorrerá no próximo final de semana, durante a live semanal do canal, dia 11/08 às 20h.
+Os resultados serão divulgados na [live de encerramento](https://www.youtube.com/live/ebm9Gotd-3w?si=m7k1Gq0PvlHMiRFQ) no dia 11/08, com os nossos jurados ao vivo. 
+
+Não perca essa live, pois além dos ganhadores, **anunciaremos os resultados dos sorteios e a pessoa destaque.**
 
 <h2 id="formato-de-entregas">Formatos de Entrega e Pontuação 📊</h2>
 
@@ -193,6 +202,13 @@ Para garantir que todas as equipes tenham a oportunidade de destacar seu talento
 Além dos pontos base atribuídos a cada formato de entrega, **a banca avaliadora também concederá pontos adicionais com base na criatividade, originalidade e qualidade da execução de cada projeto**. 
 
 Isso garante que as equipes sejam recompensadas não apenas pela entrega do produto final, mas também pelo processo criativo e pela excelência na execução.
+
+### **5.Pitch (Obrigatório)**
+
+Pelo menos um dos membros da equipe deverá gravar um pitch de no mínimo 3 minutos e no máximo 5, apresentando a ideia do projeto e todas as features pensadas para existir. Este vídeo deve ser claro e persuasivo, destacando os principais aspectos e benefícios da solução proposta.
+
+
+[Exemplo de Pitch da Fer do primeiro Hacka que ela participou](https://www.youtube.com/live/rdgMiQ2EQKA?t=566s)
 
 <h2 id="rodadas-mentoria">Rodadas de mentoria 👩‍🏫</h2>
 
